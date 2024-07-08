@@ -1,6 +1,7 @@
 Smart Dispenser for MAKERS
 
 ![Screenshot](https://github.com/pashiran/Smart_Dispenser/blob/main/images/2024-07-08%20170451.jpg)
+![Screenshot](https://github.com/pashiran/Smart_Dispenser/blob/main/images/20240708_171435.jpg)
 
 
 
